@@ -57,6 +57,11 @@ Size / Taille
 
 ![image](https://user-images.githubusercontent.com/82554322/171999546-8b5de7b4-6ac3-4839-bfee-f5e88641e2b9.png)
 
+![image](https://user-images.githubusercontent.com/82554322/171999832-d3441a7d-67f7-499f-97f9-cdec9e73643f.png)
+
+![image](https://user-images.githubusercontent.com/82554322/171999840-f32b1791-183f-46c3-be44-cf9ae54ffaf1.png)
+
+
 # Contact
 
 Vous pouvez me contacter.
