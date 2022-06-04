@@ -53,7 +53,7 @@ Size / Taille 763 Mo
 ![image](https://user-images.githubusercontent.com/82554322/171998697-84eda593-7f15-43d4-89c5-2edb1c0d7da3.png)
 
 AFTER ( APRES )
-Size / Taille
+Size / Taille 156 Mo
 
 ![image](https://user-images.githubusercontent.com/82554322/171999546-8b5de7b4-6ac3-4839-bfee-f5e88641e2b9.png)
 
