@@ -39,6 +39,15 @@ Il faut toujours faire une copie de votre content avant d'utiliser l'outil, au c
 
 You should always make a copy of your content before using the tool. In case the optimization corrupt the file, you always have a backup.
 
+Une fois le processus achevé, supprimez tous les fichiers .png qui ont étés crées à l'instant, de votre content.
+
+Once the process done, delete all the .png files which were created now, from your folder.
+
+# A ne pas oublier une fois utilisé / Don't forget this when you finished using it
+
+Une fois le processus achevé, supprimez tous les fichiers .png qui ont étés crées à l'instant, de votre content.
+
+Once the process done, delete all the .png files which were created now, from your folder.
 
 
 # Example
