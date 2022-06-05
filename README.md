@@ -3,6 +3,15 @@ Allow you to optimize your garry'smod content's size.
 
 Vous permet de réduire la taille de vos contents GMOD.
 
+
+  <p align="center">
+    <a href="https://github.com/tdkhl/Garry-s-Mod-GMOD-ContentOptimizer/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/tdkhl/Garry-s-Mod-GMOD-ContentOptimizer/issues">Request Feature</a>
+  </p>
+  
+  
+  
 # A savoir / To Know
 Ceci est un ancien projet. Il est possible qu'il soit buggé, mal optimisé et pas développé comme vous vous y attendiez. Je referai une version + clean avec une interface graphique quand j'en aurai l'envie.
 
